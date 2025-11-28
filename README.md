@@ -40,19 +40,33 @@ Apply modularization and basic back-end project structure.
 📁 🇮🇩 Struktur Proyek
 
 📁 🇬🇧 Project Structure
+
 Folder	Deskripsi (ID)'
+
 Description (EN)
+
 nodejs-basic/	Dasar Node.js (module, filesystem, event, process)	
+
 Node.js basics (modules, filesystem, events, process)
+
 nodejs-web-server/	Web server HTTP tanpa framework	
+
 Raw HTTP server without frameworks
-notes-app-backend/	Proyek REST API Notes (CRUD)	
+
+notes-app-backend/	Proyek REST API Notes (CRUD)
+
 Notes REST API project (CRUD)
-hapi-web-server/	Server Hapi (routing, handler, plugin)	
+
+hapi-web-server/	Server Hapi (routing, handler, plugin)
+
 Hapi server (routing, handlers, plugins)
+
 hapi-consume-data/	
+
 Konsumsi & pengelolaan data	Data consumption & request handling
+
 Lainnya	Eksperimen tambahan	Additional experiments
+
 🚀 🇮🇩 Cara Menjalankan Project
 
 🚀 🇬🇧 How to Run the Project
@@ -90,16 +104,27 @@ Start the server using npm start.
 🧪 🇬🇧 API Example (Notes API)
 
 Method	Endpoint	Deskripsi (ID)	
+
 Description (EN)
+
 POST	/notes	Tambah catatan	
+
 Create a note
+
 GET	/notes	Lihat semua catatan
+
 Get all notes
+
 GET	/notes/{id}	Lihat catatan berdasarkan ID
+
 Get note by ID
+
 PUT	/notes/{id}	Perbarui catatan
+
 Update note
+
 DELETE	/notes/{id}	Hapus catatan
+
 Delete note
 
 🛠️ 🇮🇩 Teknologi yang Digunakan
