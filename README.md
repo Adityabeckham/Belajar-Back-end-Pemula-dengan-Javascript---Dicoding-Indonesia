@@ -3,6 +3,7 @@
 🇬🇧 JavaScript Back-End Beginner — Dicoding Indonesia
 
 Repositori ini berisi kumpulan proyek dan latihan yang dibuat selama mengikuti kelas Belajar Back-End Pemula dengan JavaScript dari Dicoding Indonesia.
+
 This repository contains a collection of projects and exercises completed while taking the JavaScript Back-End Beginner class from Dicoding Indonesia.
 
 🌟 🇮🇩 Tujuan Pembelajaran
@@ -39,16 +40,23 @@ Apply modularization and basic back-end project structure.
 📁 🇮🇩 Struktur Proyek
 
 📁 🇬🇧 Project Structure
-Folder	Deskripsi (ID)	Description (EN)
-nodejs-basic/	Dasar Node.js (module, filesystem, event, process)	Node.js basics (modules, filesystem, events, process)
-nodejs-web-server/	Web server HTTP tanpa framework	Raw HTTP server without frameworks
-notes-app-backend/	Proyek REST API Notes (CRUD)	Notes REST API project (CRUD)
-hapi-web-server/	Server Hapi (routing, handler, plugin)	Hapi server (routing, handlers, plugins)
-hapi-consume-data/	Konsumsi & pengelolaan data	Data consumption & request handling
+Folder	Deskripsi (ID)'
+Description (EN)
+nodejs-basic/	Dasar Node.js (module, filesystem, event, process)	
+Node.js basics (modules, filesystem, events, process)
+nodejs-web-server/	Web server HTTP tanpa framework	
+Raw HTTP server without frameworks
+notes-app-backend/	Proyek REST API Notes (CRUD)	
+Notes REST API project (CRUD)
+hapi-web-server/	Server Hapi (routing, handler, plugin)	
+Hapi server (routing, handlers, plugins)
+hapi-consume-data/	
+Konsumsi & pengelolaan data	Data consumption & request handling
 Lainnya	Eksperimen tambahan	Additional experiments
 🚀 🇮🇩 Cara Menjalankan Project
 
 🚀 🇬🇧 How to Run the Project
+
 🇮🇩 Langkah-langkah:
 
 Clone repositori:
@@ -80,13 +88,22 @@ Start the server using npm start.
 🧪 🇮🇩 Contoh API (Notes API)
 
 🧪 🇬🇧 API Example (Notes API)
-Method	Endpoint	Deskripsi (ID)	Description (EN)
-POST	/notes	Tambah catatan	Create a note
-GET	/notes	Lihat semua catatan	Get all notes
-GET	/notes/{id}	Lihat catatan berdasarkan ID	Get note by ID
-PUT	/notes/{id}	Perbarui catatan	Update note
-DELETE	/notes/{id}	Hapus catatan	Delete note
+
+Method	Endpoint	Deskripsi (ID)	
+Description (EN)
+POST	/notes	Tambah catatan	
+Create a note
+GET	/notes	Lihat semua catatan
+Get all notes
+GET	/notes/{id}	Lihat catatan berdasarkan ID
+Get note by ID
+PUT	/notes/{id}	Perbarui catatan
+Update note
+DELETE	/notes/{id}	Hapus catatan
+Delete note
+
 🛠️ 🇮🇩 Teknologi yang Digunakan
+
 🛠️ 🇬🇧 Technologies Used
 
 Node.js
@@ -139,20 +156,6 @@ Hapi Framework basics
 
 Basic deployment
 
-🧩 🇮🇩 Pengembangan Lanjutan
-🧩 🇬🇧 Possible Enhancements
-
-Validasi dengan Joi / Validation with Joi
-
-Integrasi database (MongoDB/PostgreSQL)
-
-Autentikasi JWT
-
-Logging lebih baik / Improved logging
-
-Error handling terstruktur / Structured error handling
-
-Environment variable (dotenv)
 
 🤝 🇮🇩 Kontribusi
 
@@ -177,6 +180,7 @@ Push dan buat Pull Request / Push & open a Pull Request
 📝 🇬🇧 License
 
 Repositori ini dibuat untuk pembelajaran.
+
 This repository is intended for learning purposes.
 
 📌 🇮🇩 Catatan
@@ -188,4 +192,5 @@ ID: Project ini adalah hasil latihan Dicoding dan mungkin berbeda dari standar p
 EN: This project is a learning exercise and may differ from production standards.
 
 Terima kasih telah mengunjungi repository ini!
+
 Thank you for visiting this repository!
